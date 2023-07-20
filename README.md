@@ -1,2 +1,2 @@
 # Air-Quality
-Look Out! Be Careful ! The Quality Of Air Might Be Bad.. Machine Learning To The Rescue!
+DETERMINING THE QUALIFY OF AIR IN AN ENVIRONMENT USING MACHINE LEARNING
